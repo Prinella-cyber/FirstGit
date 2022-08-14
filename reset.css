@@ -5,3 +5,10 @@ body {
 h1 {
     background-color: rebeccapurple;
 }
+
+div {
+    text-align: center;
+    text-decoration: overline;
+    color: peru;
+}
+
